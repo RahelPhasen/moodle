@@ -116,3 +116,7 @@
 .path-mod-feedback .response_navigation .prev_response {
     text-align: left;
 }
+
+.path-mod-feedback #feedback_dragarea {
+    position: relative;
+}
